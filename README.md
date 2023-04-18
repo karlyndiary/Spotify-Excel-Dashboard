@@ -15,12 +15,13 @@ We have the stats of ABBA:
 - Unique no of tracks - As we can see, ABBA has 22 unique tracks.
 - Popularity - ABBA is quite popular with a score of 53.9.
 
-![Dashboard](https://user-images.githubusercontent.com/116041695/232645063-471f0219-c6d3-484d-8328-d2b32136f82c.png)
+![Artist Dashboard](https://user-images.githubusercontent.com/116041695/232645063-471f0219-c6d3-484d-8328-d2b32136f82c.png)
 
 ## Spotify Overview
 The Spotify Overview of the Dashboard is currently not filtered or sliced. This allows for a detailed analysis and visual representation of entire dataset's statistics, and other relevant information within the dashboard.
 
 We have the stats of all 1994 songs from the dataset: 
+![Spotify Dashboard](https://user-images.githubusercontent.com/116041695/232671200-af0b84de-8cb7-4569-9e1c-83e4de0ed35b.png)
 
 Question to ask: when the slicer is clicked, I want a shape to show and when the slicer is cleared, I want the shape to hide in excel. how to do this
 
