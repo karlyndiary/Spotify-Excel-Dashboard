@@ -17,3 +17,6 @@ We have the stats of ABBA:
 The Spotify Overview of the Dashboard is currently not filtered or sliced. This allows for a detailed analysis and visual representation of entire dataset's statistics, and other relevant information within the dashboard.
 
 We have the stats of all 1994 songs from the dataset: 
+
+Question to ask: when the slicer is clicked, I want a shape to show and when the slicer is cleared, I want the shape to hide in excel. how to do this
+
