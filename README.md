@@ -20,6 +20,18 @@ We have the stats of ABBA:
 ## Spotify Overview
 The Spotify Overview of the Dashboard is currently not filtered or sliced. This allows for a detailed analysis and visual representation of entire dataset's statistics, and other relevant information within the dashboard.
 
+We have the stats of all 1994 songs from the dataset:
+- Total no of releases each year - 
+- Popular Songs - 
+- Popular Genre - 
+- Energy Levels - 
+- Average Valence throughout the years - 
+
+### We also have metrics such as 
+- Unique Artists - 
+- Unique no of tracks - 
+- Longest Song - 
+
 We have the stats of all 1994 songs from the dataset: 
 ![Spotify Dashboard](https://user-images.githubusercontent.com/116041695/232671200-af0b84de-8cb7-4569-9e1c-83e4de0ed35b.png)
 
