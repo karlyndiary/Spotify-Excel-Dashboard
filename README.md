@@ -4,12 +4,12 @@ Dashboard is created using the data from Kaggle, [Spotify - All Time Top 2000s M
 ## Artist Overview
 The Artist Overview of the Dashboard is currently filtered or sliced to focus on ABBA, a popular Swedish music group. This selection allows for a detailed analysis and visual representation of ABBA's performance, statistics, and other relevant information within the dashboard.
 
-We can see the stats of ABBA: 
-- Total no of releases each year - We have about 20 years of releases from the group where 1979 is the highest number of releases.
-- Popular Songs - We have the top 10 popular songs of ABBA. 
+We have the stats of ABBA: 
+- Total no of releases each year - The group has been consistently releasing music for the past 20 years, with the highest number of releases occurring in 1979.
+- Popular Songs - The well-known songs by ABBA, comprising their top 10 hits.
 - Popular Genre - As mentioned, ABBA is a popular Swedish music group, their music leans towards europop.
-- Energy Levels - The Energy level consists of many factors as seen from the radar graph - we have loudness and liveness, which is almost below zero and little above zero which seems to be that the band produces more of a calm type of music. Also at the same time, we have a huge spike in the number of beats per minute which also slightly increases the dancibilty to the songs and the overall energy as well. 
-- Average Valence throughout the years - 1979 and 1980 seems to be slightly lower compared to the rest of the years and the most happiest of music being released was in the year 1981 with 80 releases. 
+- Energy Levels - The analysis of ABBA's music indicates that they tend to create calming melodies with lower values for loudness and liveness. However, there is a noticeable spike in the average number of beats per minute, suggesting an upbeat tempo in their songs. The graph also reveals that their music falls within the range of 0 to 50 for acousticness, which implies that electric guitars, keyboards, and synthesizers may be prominent instruments in their compositions. Energy and dancibility are relatively lower on the spectrum, indicating a unique blend of musical characteristics in ABBA's music.
+- Average Valence throughout the years - The years 1979 and 1980 saw a relatively lower number of releases compared to other years, while 1981 stood out as a particularly prolific year with a whopping 80 music releases, showcasing a peak in the group's creative output and joyous musical compositions.
 
 ![Dashboard](https://user-images.githubusercontent.com/116041695/232645063-471f0219-c6d3-484d-8328-d2b32136f82c.png)
 
