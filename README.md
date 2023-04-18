@@ -11,6 +11,10 @@ We have the stats of ABBA:
 - Energy Levels - The analysis of ABBA's music indicates that they tend to create calming melodies with lower values for loudness and liveness. However, there is a noticeable spike in the average number of beats per minute, suggesting an upbeat tempo in their songs. The graph also reveals that their music falls within the range of 0 to 50 for acousticness, which implies that electric guitars, keyboards, and synthesizers may be prominent instruments in their compositions. Energy and dancibility are relatively lower on the spectrum, indicating a unique blend of musical characteristics in ABBA's music.
 - Average Valence throughout the years - The years 1979 and 1980 saw a relatively lower number of releases compared to other years, while 1981 stood out as a particularly prolific year with a whopping 80 music releases, showcasing a peak in the group's creative output and joyous musical compositions.
 
+### We also have metrics such as 
+- Unique no of tracks - As we can see, ABBA has 22 unique tracks.
+- Popularity - ABBA is quite popular with a score of 53.9.
+
 ![Dashboard](https://user-images.githubusercontent.com/116041695/232645063-471f0219-c6d3-484d-8328-d2b32136f82c.png)
 
 ## Spotify Overview
