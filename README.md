@@ -32,8 +32,6 @@ We have the stats of all 1994 songs from the dataset:
 - Unique no of tracks - 
 - Longest Song - 
 
-We have the stats of all 1994 songs from the dataset: 
 ![Spotify Dashboard](https://user-images.githubusercontent.com/116041695/233257024-8e571769-ecb7-4e74-9bab-d3ffab16c7e5.png)
 
-Question to ask: when the slicer is clicked, I want a shape to show and when the slicer is cleared, I want the shape to hide in excel. how to do this
 
