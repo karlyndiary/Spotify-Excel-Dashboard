@@ -23,7 +23,7 @@ We have the stats of ABBA:
 The Spotify Overview of the Dashboard is currently not filtered or sliced. This allows for a detailed analysis and visual representation of entire dataset's statistics, and other relevant information within the dashboard.
 
 We have the stats of all 1994 songs from the dataset:
-- Total no of releases each year - The line graph shows a consistent and gradual increase in the number of songs released since 1960, when only one song was released. The trend continues to rise, reaching its highest point in 1967 with 37 releases, which is the largest number of releases in the dataset for that time period. The dataset records the highest number of releases in 2008, with a remarkable 54 songs, indicating a substantial growth in music production over the years.
+- Total no of releases each year - The line graph shows a consistent and gradual increase in the number of songs released since 1960, when only one song was released. The trend continues to rise, reaching its highest point in 1967 with 37 releases, which is the largest number of releases in the dataset for that time period. The dataset records the highest number of releases in 2008, with 54 songs, indicating a substantial growth in music production over the years.
 - Popular Songs - 
 - Popular Genre - 
 - Energy Levels - 
