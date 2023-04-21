@@ -16,7 +16,7 @@ We have the stats of ABBA:
 ### We also have metrics such as 
 - Unique no of tracks - As we can see, ABBA has 22 unique tracks.
 - Popularity - ABBA is quite popular with a score of 53.9.
-- 
+
 ![Artist Dashboard](https://user-images.githubusercontent.com/116041695/233257040-46d8a395-43ff-48f8-a872-aa0448a0f103.png)
 
 ## Spotify Overview
@@ -35,5 +35,3 @@ We have the stats of all 1994 songs from the dataset:
 - Longest Song - 
 
 ![Spotify Dashboard](https://user-images.githubusercontent.com/116041695/233257024-8e571769-ecb7-4e74-9bab-d3ffab16c7e5.png)
-
-
