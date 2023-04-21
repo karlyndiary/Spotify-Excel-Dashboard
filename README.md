@@ -1,6 +1,8 @@
 # Spotify Excel Dashboard
 Dashboard is created using the data from Kaggle, [Spotify - All Time Top 2000s Mega Dataset](https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset). The dataset contains 15 columns and 1994 songs. 
 
+By simply clicking a button, you can effortlessly switch from the Spotify dashboard, to the artist dashboard. Once in the artist dashboard, the slicer tool allows you to easily toggle between different artists, providing a focused view of one artist's analysis at a time. This seamless transition between the two dashboards empowers you with a comprehensive overview of all of Spotify's songs analysis, as well as in-depth insights into individual artist's analytics, all with just a click of a button. 
+
 ## Artist Overview
 The Artist Overview of the Dashboard is currently filtered or sliced to focus on ABBA, a popular Swedish music group. This selection allows for a detailed analysis and visual representation of ABBA's performance, statistics, and other relevant information within the dashboard.
 
