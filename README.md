@@ -31,8 +31,8 @@ We have the stats of all 1994 songs from the dataset:
 - Popular Artists bases on Popularity score - 
 
 ### We also have metrics such as 
-- Unique no of Artists - From the dataset, we have a total of 731 unique artists.
-- Unique no of tracks - We have 1994 songs in the dataset.
-- Longest Song - This is quite surpring becasue generally we only have songs that ranges from 2:30 minutes to 3:30 minutes and sometimes even 4:00 minutes but we see that we have the longest song named, Echoes from the band Pink Floyd that is about 23:53 minutes long.
+- Unique no of Artists - There are 731 different artists included in the dataset
+- Unique no of tracks - The dataset contains a total of 1994 songs.
+- Longest Song - An intriguing find in the dataset is the song "Echoes" by Pink Floyd, which stands out as the longest track at 23 minutes and 53 seconds, significantly surpassing the typical song durations of 2:30 to 3:30 minutes or sometimes even 4 or 5 minutes.
 
 ![Spotify Dashboard](https://user-images.githubusercontent.com/116041695/233257024-8e571769-ecb7-4e74-9bab-d3ffab16c7e5.png)
