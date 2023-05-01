@@ -26,7 +26,7 @@ We have the stats of all 1994 songs from the dataset:
 - Total no of releases each year - The line graph shows a consistent and gradual increase in the number of songs released since 1960, when only one song was released. The trend continues to rise, reaching its highest point in 1967 with 37 releases, which is the largest number of releases in the dataset for that time period. The dataset records the highest number of releases in 2008, with 54 songs, indicating a substantial growth in music production over the years.
 - Popular Songs - 
 - Popular Genre - The doughnut chart indicates the top 5 most popular music genres, with Album Rock and Alternative rock taking the 1st and 3rd position, followed by Adult Standards, Alternative Metal, and Dance Pop. Interestingly, while two types of rock music occupy the first and third spots, Dance Pop makes a strong showing at fourth place in the list. It appears to be that rock and metal played a huge role back in the day.
-- Energy Levels - 
+- Energy Levels - It is quite interesting that the analysis shows us that average danceabilty was very low
 - Average Valence throughout the years - 
 - Popular Artists bases on Popularity score - 
 
