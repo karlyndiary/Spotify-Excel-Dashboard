@@ -28,7 +28,7 @@ We have the stats of all 1994 songs from the dataset:
 - Popular Genre - The doughnut chart depicts the top 5 most popular music genres. Album Rock and Alternative Rock occupy the first and third positions, respectively. Adult Standards, Alternative Metal, and Dance Pop follow, with Dance Pop notably securing the fourth spot. It is interesting to observe that rock and metal genres played a significant role in the past, considering the prominence of the two rock genres in the top positions.
 - Energy Levels - It is quite interesting that the analysis shows us that average danceability was very low
 - Average Valence throughout the years - The analysis of music valence across different years revealed interesting trends. Specifically, the year 1960 had the lowest valence score compared to other years, indicating a less positive or "happy" sound or music in the tracks. On the other hand, the year 1962 had the next immediate highest valence score, suggesting a more upbeat sound. Another notable finding was the dip in valence scores in the year 1994, which returned to a level comparable to 1960. 
-- Popular Artists based on Popularity score - 
+- Popular Artists based on Popularity score - The graph illustrates the top 10 artists ranked by their popularity score. The Beatles claim the first position with a popularity score of 2451, while Fleetwood Mac holds the other end of the spectrum with a score of 1083.
 
 ### We also have metrics such as 
 - Unique no of Artists - There are 731 different artists included in the dataset
