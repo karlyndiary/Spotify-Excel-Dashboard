@@ -8,7 +8,7 @@ The Artist Overview of the Dashboard is currently filtered or sliced to focus on
 
 We have the stats of ABBA: 
 - Total no of releases each year - The group has been consistently releasing music for the past 20 years, with the highest number of releases occurring in 1979.
-- Popular Songs - The well-known songs by ABBA, comprising their top 10 hits.
+- Popular Songs - The well-known songs by ABBA, comprising their top 5 hits.
 - Popular Genre - As mentioned, ABBA is a popular Swedish music group, their music leans towards Europop.
 - Energy Levels - The analysis of ABBA's music indicates that they tend to create calming melodies with lower values for loudness and liveness. However, there is a noticeable spike in the average number of beats per minute, suggesting an upbeat tempo in their songs. The graph also reveals that their music falls within the range of 0 to 50 for acoustics, which implies that electric guitars, keyboards, and synthesizers may be prominent instruments in their compositions. Energy and danceability are relatively lower on the spectrum, indicating a unique blend of musical characteristics in ABBA's music.
 - Average Valence throughout the years - The years 1979 and 1980 saw a relatively lower number of releases compared to other years, while 1981 stood out as a particularly prolific year with a whopping 80 music releases, showcasing a peak in the group's creative output and joyous musical compositions.
@@ -24,7 +24,7 @@ The Spotify Overview of the Dashboard is currently not filtered or sliced. This 
 
 We have the stats of all 1994 songs from the dataset:
 - Total no of releases each year - The line graph shows a consistent and gradual increase in the number of songs released since 1960 when only one song was released. The trend continues to rise, reaching its highest point in 1967 with 37 releases, which is the largest number of releases in the dataset for that period. The dataset records the highest number of releases in 2008, with 54 songs, indicating a substantial growth in music production over the years.
-- Popular Songs - 
+- Popular Songs - The bar chart displays the top 5 songs, ranked in order of popularity. Interestingly, there are multiple artists with songs of the same title, but each song is completely different. Among these songs, "Feeling Good" by Nina Simone is the most popular, while "One" by Johnny Cash is the least popular among the top 5.
 - Popular Genre - The doughnut chart indicates the top 5 most popular music genres, with Album Rock and Alternative Rock taking the 1st and 3rd position, followed by Adult Standards, Alternative Metal, and Dance Pop. Interestingly, while two types of rock music occupy the first and third spots, Dance Pop makes a strong showing at fourth place in the list. It appears to be that rock and metal played a huge role back in the day.
 - Energy Levels - It is quite interesting that the analysis shows us that average danceability was very low
 - Average Valence throughout the years - The analysis of music valence across different years revealed interesting trends. Specifically, the year 1960 had the lowest valence score compared to other years, indicating a less positive or "happy" sound in the tracks. On the other hand, the year 1962 had the highest valence score, suggesting a more upbeat sound. Another notable finding was the dip in valence scores in the year 1994, which returned to a level comparable to 1960. 
