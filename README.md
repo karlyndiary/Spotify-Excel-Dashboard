@@ -11,7 +11,7 @@ We have the stats of ABBA:
 - Popular Songs - The well-known songs by ABBA, comprising their top 5 hits.
 - Popular Genre - As mentioned, ABBA is a popular Swedish music group, their music leans towards Europop.
 - Energy Levels - The analysis of ABBA's music indicates that they tend to create calming melodies with lower values for loudness and liveness. However, there is a noticeable spike in the average number of beats per minute, suggesting an upbeat tempo in their songs. The graph also reveals that their music falls within the range of 0 to 50 for acoustics, which implies that electric guitars, keyboards, and synthesizers may be prominent instruments in their compositions. Energy and danceability are relatively lower on the spectrum, indicating a unique blend of musical characteristics in ABBA's music.
-- Average Valence throughout the years - The years 1979 and 1980 saw a relatively lower number of releases compared to other years, while 1981 stood out as a particularly prolific year with a whopping 80 music releases, showcasing a peak in the group's creative output and joyous musical compositions.
+- Average Valence throughout the years - The years 1977 and 1980 featured various musical releases that displayed contrasting emotional tones. In 1977, there was a prevalence of songs with lower valence, which often conveyed a sense of sadness or less upbeat music. However, starting in 1980, there was a significant shift in musical compositions towards a more positive and joyous direction, as reflected by a noticeable increase in valence.
 
 ### We also have metrics such as 
 - Unique no of tracks - As we can see, ABBA has 22 unique tracks.
