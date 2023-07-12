@@ -17,7 +17,7 @@ We have the stats of ABBA:
 - Unique no of tracks - As we can see, ABBA has 22 unique tracks.
 - Popularity - ABBA is quite popular with a score of 53.9.
 
-![Artist Dashboard](https://user-images.githubusercontent.com/116041695/233257040-46d8a395-43ff-48f8-a872-aa0448a0f103.png)
+![Artist Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard/assets/116041695/4918ff2f-ff40-4803-a73a-55ec68d3624e)
 
 ## Spotify Overview
 The Spotify Overview of the Dashboard is currently not filtered or sliced. This allows for a detailed analysis and visual representation of the entire dataset's statistics, and other relevant information within the dashboard.
@@ -35,4 +35,4 @@ We have the stats of all 1994 songs from the dataset:
 - Unique no of tracks - The dataset contains a total of 1994 songs.
 - Longest Song - An intriguing find in the dataset is the song "Echoes" by Pink Floyd, which stands out as the longest track at 23 minutes and 53 seconds, significantly surpassing the typical song durations of 2:30 to 3:30 minutes or sometimes even 4 or 5 minutes.
 
-![Spotify Dashboard](https://user-images.githubusercontent.com/116041695/233257024-8e571769-ecb7-4e74-9bab-d3ffab16c7e5.png)
+![Spotify Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard/assets/116041695/07630719-effa-4d38-8d71-78a11ae590a1)
