@@ -1,4 +1,4 @@
-# Spotify Excel Dashboard
+![Artist Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard/assets/116041695/4f430b5d-a465-4808-a90d-1ddcf98de815)# Spotify Excel Dashboard
 The dashboard is created using the data from Kaggle, [Spotify - All Time Top 2000s Mega Dataset](https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset). The dataset contains 15 columns and 1994 songs. 
 
 By simply clicking a button, you can effortlessly switch from the Spotify dashboard to the artist dashboard. Once in the artist dashboard, the slicer tool allows you to easily toggle between different artists, providing a focused view of one artist's analysis at a time. This seamless transition between the two dashboards empowers you with a comprehensive overview of all of Spotify's song analysis, as well as in-depth insights into individual artists' analytics, all with just a click of a button. 
@@ -17,7 +17,7 @@ We have the stats of ABBA:
 - Unique no of tracks - As we can see, ABBA has 22 unique tracks.
 - Popularity - ABBA is quite popular with a score of 53.9.
 
-![Artist Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard/assets/116041695/4918ff2f-ff40-4803-a73a-55ec68d3624e)
+![Artist Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard/assets/116041695/79da92a2-415a-47e7-89d2-569b39749b60)
 
 ## Spotify Overview
 The Spotify Overview of the Dashboard is currently not filtered or sliced. This allows for a detailed analysis and visual representation of the entire dataset's statistics, and other relevant information within the dashboard.
@@ -35,4 +35,4 @@ We have the stats of all 1994 songs from the dataset:
 - Unique no of tracks - The dataset contains a total of 1994 songs.
 - Longest Song - An intriguing find in the dataset is the song "Echoes" by Pink Floyd, which stands out as the longest track at 23 minutes and 53 seconds, significantly surpassing the typical song durations of 2:30 to 3:30 minutes or sometimes even 4 or 5 minutes.
 
-![Spotify Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard/assets/116041695/07630719-effa-4d38-8d71-78a11ae590a1)
+![Spotify Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard/assets/116041695/5d109fca-63dc-44d8-9658-45ec8c93e8fe)
